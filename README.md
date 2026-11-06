@@ -1,98 +1,137 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:14213d,100:00d4ff&height=190&section=header&text=CAMARAUM&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=TECNOLOGIA%20%7C%20ENGENHARIA%20%7C%20INOVAÇÃO&descAlignY=60&descSize=13" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:101d35,100:0077ff&height=200&section=header&text=CAMARAUM&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=TECNOLOGIA%20%7C%20ENGENHARIA%20%7C%20INOVA%C3%87%C3%83O&descAlignY=62&descSize=14" width="100%" />
+
+<br/>
 
 # Camaraum
 
-### Desenvolvedor de Software
+**Desenvolvedor de Software**
 
-**Transformando ideias em soluções através da tecnologia.**
+Construindo soluções, explorando possibilidades e transformando ideias em tecnologia.
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Camaraum-0d1117?style=flat-square&logo=github)](https://github.com/camaraumx)
-[![Discord](https://img.shields.io/badge/Discord-camaraumx-0d1117?style=flat-square&logo=discord&logoColor=7289DA)](https://discord.com/users/camaraumx)
+<a href="https://github.com/camaraumx">
+<img src="https://img.shields.io/badge/GitHub-Explorar%20perfil-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://discord.com/users/camaraumx">
+<img src="https://img.shields.io/badge/Discord-Entrar%20em%20contato-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## Sobre mim
+## 01. Sobre mim
 
-Sou desenvolvedor de software, interessado em tecnologia, arquitetura de sistemas e inovação.
+Sou desenvolvedor de software, movido pela curiosidade e pelo interesse em tecnologia, engenharia e inovação.
 
-Minha atuação envolve o desenvolvimento de aplicações, sistemas Backend, soluções Web e integração de tecnologias. Tenho interesse especial em compreender o funcionamento dos sistemas em profundidade, desde sua arquitetura até os detalhes de implementação.
+Meu trabalho envolve explorar diferentes tecnologias, desenvolver aplicações e construir sistemas que resolvam problemas reais. Tenho especial interesse pelo desenvolvimento Backend, arquitetura de software, aplicações Web e inteligência artificial.
 
-Acredito que desenvolver software vai muito além de escrever código: envolve resolver problemas, tomar decisões técnicas e construir soluções eficientes, seguras e sustentáveis.
+Gosto de compreender cada camada de um sistema, desde sua concepção até sua implementação, priorizando código organizado, segurança, desempenho e confiabilidade.
 
-Atualmente, estou aprofundando meus conhecimentos em Engenharia de Software, com foco em Java, Kotlin, desenvolvimento Backend e arquitetura de sistemas.
+Atualmente, direciono meus estudos ao aprofundamento em Java, Kotlin, Engenharia de Software e arquitetura de sistemas.
 
-## Tecnologias e ferramentas
+> A tecnologia é uma ferramenta. A engenharia é o que transforma essa ferramenta em algo extraordinário.
 
-**Linguagens de programação**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Desenvolvimento e frameworks**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-**Bancos de dados e infraestrutura**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## Estatísticas do GitHub
+## 02. Tecnologias
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=camaraumx&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&rank_icon=github" />
+**LINGUAGENS DE PROGRAMAÇÃO**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camaraumx&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=c9d1d9" />
+<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-0B1525?style=for-the-badge&logo=openjdk&logoColor=ED8B00" /></a>
+<a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-0B1525?style=for-the-badge&logo=kotlin&logoColor=9B72F8" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-0B1525?style=for-the-badge&logo=typescript&logoColor=3178C6" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-0B1525?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
+<a href="https://www.lua.org/"><img src="https://img.shields.io/badge/Lua-0B1525?style=for-the-badge&logo=lua&logoColor=9B9BFF" /></a>
+<a href="https://www.swift.org/"><img src="https://img.shields.io/badge/Swift-0B1525?style=for-the-badge&logo=swift&logoColor=F05138" /></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/SQL-0B1525?style=for-the-badge&logo=postgresql&logoColor=5B9BD5" /></a>
+
+<br/>
+
+**FRAMEWORKS E DESENVOLVIMENTO**
+
+<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-0B1525?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-0B1525?style=for-the-badge&logo=next.js&logoColor=FFFFFF" /></a>
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-0B1525?style=for-the-badge&logo=nodedotjs&logoColor=68A063" /></a>
+<a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-0B1525?style=for-the-badge&logo=express&logoColor=FFFFFF" /></a>
+
+<br/>
+
+**BANCOS DE DADOS**
+
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-0B1525?style=for-the-badge&logo=mongodb&logoColor=47A248" /></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-0B1525?style=for-the-badge&logo=mysql&logoColor=4479A1" /></a>
+
+<br/>
+
+**INFRAESTRUTURA E FERRAMENTAS**
+
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-0B1525?style=for-the-badge&logo=docker&logoColor=2496ED" /></a>
+<a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-0B1525?style=for-the-badge&logo=linux&logoColor=FCC624" /></a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-0B1525?style=for-the-badge&logo=git&logoColor=F05032" /></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-0B1525?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
 
 </div>
 
 ---
 
-## Objetivos
+## 03. Áreas de interesse
+
+| Área | Foco |
+|:---|:---|
+| **Engenharia de Software** | Arquitetura, qualidade e organização de código |
+| **Desenvolvimento Backend** | APIs, serviços e sistemas escaláveis |
+| **Desenvolvimento Web** | Aplicações modernas e experiências digitais |
+| **Inteligência Artificial** | Integração de modelos e soluções inteligentes |
+| **Cibersegurança** | Segurança de aplicações e proteção de dados |
+| **Infraestrutura** | Servidores, implantação e gerenciamento de ambientes |
+
+## 04. Estatísticas
+
+<div align="center">
+
+<a href="https://github.com/camaraumx">
+<img src="https://img.shields.io/badge/CONTRIBUIÇÕES-VER%20ATIVIDADE-101d35?style=for-the-badge&logo=github&logoColor=00aaff" />
+</a>
+<a href="https://github.com/camaraumx?tab=repositories">
+<img src="https://img.shields.io/badge/PROJETOS-VER%20REPOSITÓRIOS-101d35?style=for-the-badge&logo=git&logoColor=00aaff" />
+</a>
+
+</div>
+
+## 05. Objetivos
 
 - Desenvolver sistemas Backend robustos, seguros e escaláveis.
-- Aprofundar conhecimentos em Engenharia de Software.
+- Aprofundar conhecimentos em arquitetura e Engenharia de Software.
 - Evoluir continuamente no desenvolvimento Full Stack.
-- Explorar inteligência artificial e suas aplicações.
-- Aprimorar conhecimentos em arquitetura e infraestrutura.
-- Contribuir com projetos de código aberto.
+- Explorar novas aplicações de inteligência artificial.
+- Aprimorar conhecimentos em infraestrutura e cibersegurança.
+- Participar de projetos colaborativos e contribuir com o código aberto.
 
-## Contato
+## 06. Vamos conversar?
 
-Estou aberto a conexões, conversas sobre tecnologia e oportunidades de colaboração.
+Acredito que boas ideias surgem da troca de conhecimento. Estou aberto a conexões, discussões técnicas e oportunidades de colaboração.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/Meu_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/camaraumx)
-[![Discord](https://img.shields.io/badge/Meu_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/camaraumx)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=camaraumx&label=VISUALIZAÇÕES%20DO%20PERFIL&color=00d4ff&style=flat-square" />
+<a href="https://github.com/camaraumx">
+<img src="https://img.shields.io/badge/ACESSAR%20GITHUB-0B1525?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0B1525" />
+</a>
+<a href="https://discord.com/users/camaraumx">
+<img src="https://img.shields.io/badge/ME%20ENCONTRAR%20NO%20DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF" />
+</a>
 
 <br/><br/>
 
-*Código, criatividade e engenharia. Sempre em evolução.*
+<img src="https://komarev.com/ghpvc/?username=camaraumx&label=VISUALIZAÇÕES%20DO%20PERFIL&color=0077ff&style=for-the-badge" />
+
+<br/><br/>
+
+**CAMARAUM**
+
+*Desenvolvimento contínuo. Evolução constante.*
 
 </div>
