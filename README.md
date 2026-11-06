@@ -1,125 +1,98 @@
  <div align="center">
 
-# ⚡ CAMARAUM
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:14213d,100:00d4ff&height=190&section=header&text=CAMARAUM&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=TECNOLOGIA%20%7C%20ENGENHARIA%20%7C%20INOVACAO&descAlignY=60&descSize=13" width="100%" />
 
-### `GREAT SCOTT!` — VOCÊ ACABOU DE CHEGAR AO FUTURO.
+# Camaraum
 
-**Software Developer · Backend Engineer · Technology Enthusiast**
+### Desenvolvedor de Software
 
-`Java` · `Kotlin` · `TypeScript` · `JavaScript` · `Lua` · `Swift` · `SQL`
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:14213d,100:00d4ff&height=180&section=header&text=CAMARAUM&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MAKING%20THE%20FUTURE%20A%20REALITY&descAlignY=60&descSize=13" width="100%" />
+**Transformando ideias em soluções através da tecnologia.**
 
 <br/>
 
-**📍 1985 → 2026 → Beyond**
-
-*Não preciso de uma máquina do tempo para construir o futuro. Só de um bom editor de código.*
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=camaraumx&bg_color=050505&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=14213d&hide_border=true&custom_title=TIME%20TRAVEL%20LOG%20%7C%20ACTIVITY%20TIMELINE" width="100%" />
+[![GitHub](https://img.shields.io/badge/GitHub-Camaraum-0d1117?style=flat-square&logo=github)](https://github.com/camaraumx)
+[![Discord](https://img.shields.io/badge/Discord-camaraumx-0d1117?style=flat-square&logo=discord&logoColor=7289DA)](https://discord.com/users/camaraumx)
 
 </div>
 
 ---
 
-## 🛸 01. THE DEVELOPER BEHIND THE MACHINE
+## Sobre mim
 
-> *"Your future is whatever you make it. So make it a good one."*
+Sou desenvolvedor de software, interessado em tecnologia, arquitetura de sistemas e inovação.
 
-Sou desenvolvedor de software, apaixonado por tecnologia, engenharia e pela construção de sistemas que transformam ideias em realidade.
+Minha atuação envolve o desenvolvimento de aplicações, sistemas Backend, soluções Web e integração de tecnologias. Tenho interesse especial em compreender o funcionamento dos sistemas em profundidade, desde sua arquitetura até os detalhes de implementação.
 
-Meu universo está entre o desenvolvimento Backend, aplicações Web, infraestrutura e inteligência artificial.
+Acredito que desenvolver software vai muito além de escrever código: envolve resolver problemas, tomar decisões técnicas e construir soluções eficientes, seguras e sustentáveis.
 
-Gosto de entender como as coisas funcionam por baixo do capô. Não basta fazer funcionar: quero compreender a arquitetura, otimizar os processos e construir soluções confiáveis, escaláveis e seguras.
+Atualmente, estou aprofundando meus conhecimentos em Engenharia de Software, com foco em Java, Kotlin, desenvolvimento Backend e arquitetura de sistemas.
 
-Atualmente, estou explorando novas possibilidades na Engenharia de Software, aprofundando meus conhecimentos em Java, Kotlin e tecnologias modernas.
+## Tecnologias e ferramentas
 
-**Minha filosofia:** o futuro não é encontrado. É desenvolvido.
+**Linguagens de programação**
 
-## ⚙️ 02. TECHNOLOGY MATRIX
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-*O combustível necessário para atingir 88 mph.*
+**Desenvolvimento e frameworks**
 
-<div align="center">
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-### PROGRAMMING LANGUAGES
+**Bancos de dados e infraestrutura**
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,lua,js,ts,swift,sql&theme=dark" />
-
-### FRAMEWORKS & DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&theme=dark" />
-
-### DATABASES & INFRASTRUCTURE
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,linux,git,github&theme=dark" />
-
-</div>
-
-## 🧪 03. CURRENT EXPERIMENTS
-
-| Projeto | Direção |
-|---|---|
-| Backend Engineering | Arquiteturas robustas e escaláveis |
-| Artificial Intelligence | Integração e desenvolvimento de soluções com IA |
-| Full Stack Development | Aplicações modernas e completas |
-| Cybersecurity | Segurança, validação e proteção de sistemas |
-| Software Architecture | Código sustentável e sistemas bem estruturados |
-
-## 📡 04. SYSTEM TELEMETRY
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=camaraumx&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camaraumx&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=c9d1d9" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=camaraumx&theme=transparent&hide_border=true&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=777777" width="70%" />
-
-</div>
-
-## 🎯 05. THE MISSION
-
-- ⚡ Construir sistemas Backend de alta qualidade.
-- 🧠 Aprofundar conhecimentos em Engenharia de Software.
-- 🌐 Evoluir como desenvolvedor Full Stack.
-- 🔐 Aplicar princípios de segurança desde a arquitetura.
-- 🚀 Desenvolver soluções que conectem tecnologia e inovação.
-- 🌎 Contribuir com a comunidade Open Source.
-
-## 📻 06. ESTABLISH CONNECTION
-
-*Encontrou uma frequência? Vamos conversar.*
-
-<div align="center">
-
-<a href="https://github.com/camaraumx">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00d4ff" />
-</a>
-<a href="https://discord.com/users/camaraumx">
-<img src="https://img.shields.io/badge/DISCORD-0D1117?style=for-the-badge&logo=discord&logoColor=7289DA" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=camaraumx&label=TIME%20TRAVELERS&color=00d4ff&style=flat-square" />
-
-<br/><br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### ⚡ THE FUTURE IS NOW.
+## Estatísticas do GitHub
 
-*Powered by curiosity, caffeine and 1.21 gigawatts.*
+<div align="center">
 
-**CAMARAUM © 2026**
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=camaraumx&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&rank_icon=github" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:14213d,100:050505&height=100&section=footer" width="100%" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camaraumx&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=c9d1d9" />
+
+</div>
+
+---
+
+## Objetivos
+
+- Desenvolver sistemas Backend robustos, seguros e escaláveis.
+- Aprofundar conhecimentos em Engenharia de Software.
+- Evoluir continuamente no desenvolvimento Full Stack.
+- Explorar inteligência artificial e suas aplicações.
+- Aprimorar conhecimentos em arquitetura e infraestrutura.
+- Contribuir com projetos de código aberto.
+
+## Contato
+
+Estou aberto a conexões, conversas sobre tecnologia e oportunidades de colaboração.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/Meu_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/camaraumx)
+[![Discord](https://img.shields.io/badge/Meu_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/camaraumx)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=camaraumx&label=VISUALIZAÇÕES%20DO%20PERFIL&color=00d4ff&style=flat-square" />
+
+<br/><br/>
+
+*Código, criatividade e engenharia. Sempre em evolução.*
 
 </div>
