@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:14213d,100:00d4ff&height=190&section=header&text=CAMARAUM&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=TECNOLOGIA%20%7C%20ENGENHARIA%20%7C%20INOVACAO&descAlignY=60&descSize=13" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:14213d,100:00d4ff&height=190&section=header&text=CAMARAUM&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=TECNOLOGIA%20%7C%20ENGENHARIA%20%7C%20INOVAÇÃO&descAlignY=60&descSize=13" width="100%" />
 
 # Camaraum
 
